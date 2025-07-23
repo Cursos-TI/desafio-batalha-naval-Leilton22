@@ -52,6 +52,7 @@ int main() {
 
    return 0;
    printf("Novo commit\n");
+   
 }
     // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
     // Sugestão: Expanda o tabuleiro para uma matriz 10x10.

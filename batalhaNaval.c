@@ -20,6 +20,12 @@ int main() {
     tabuleiro[7][9] = 3;
     tabuleiro[8][4] = 3;
     tabuleiro[8][6] = 3;
+    tabuleiro[2][3] = 3;
+    tabuleiro[3][4] = 3;
+    tabuleiro[4][5] = 3;
+    tabuleiro[2][9] = 3;
+    tabuleiro[3][8] = 3;
+    tabuleiro[4][7] = 3;
     
     //Imprime o titulo
     printf("JOGO DE BATALHA NAVAL\n");

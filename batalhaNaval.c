@@ -57,5 +57,5 @@ int main(){
     }
 
    return 0;
-}
+} printf("novocomit\n");
 
